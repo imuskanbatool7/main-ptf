@@ -14,7 +14,7 @@ export default function Header() {
       
       
 <Image
-src="/images/muskan.png" 
+src="/IMAGES/muskan.png" 
 alt="My Profile Picture"
 width={50}                
 height={50}  
@@ -50,7 +50,7 @@ className="logoo"
 </div>
 <div className="home-right">
 <Image
-src="/images/muskan.png" 
+src="/IMAGES/muskan.png" 
 alt="My Profile Picture"
 width={300}                
 height={300}  
@@ -129,7 +129,7 @@ className="profile"
 </div>
 <div className="projects-right-side">
 <Image
-        src="/images/project1.png" 
+        src="/IMAGES/project1.png" 
         alt="Resume"
         width={500}                
         height={500}  
@@ -154,7 +154,7 @@ ensuring it&apos;s difficult to guess while remaining easy for you to remember.<
 </div>
 <div className="projects-right-side">
 <Image
-        src="/images/project2.png" 
+        src="/IMAGES/project2.png" 
         alt="website"
         width={500}                
         height={500}  
